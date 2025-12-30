@@ -6,7 +6,7 @@ Bienvenido a mi repositorio de ejercicios y prácticas. Aquí iré subiendo mis 
 
 | Proyecto | Descripción | Demo en Vivo (Deploy) |
 | :--- | :--- | :--- |
-| **01. CV Personal** | Reto de creación de CV con HTML/CSS | [Ver mi CV Online](https://stevebr10.github.io/RoadMap/Front/CV/) |
+| **01. CV Personal** | Reto de creación de CV con HTML/CSS | https://stevebr10.github.io/RoadMap/Front/CV/ |
 | **02. Próximo Reto** | (Próximamente...) | ... |
 
 ---
