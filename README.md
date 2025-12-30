@@ -1,7 +1,7 @@
 # Solución Challenge Frontend - CV
 
 Aquí está la URL de mi proyecto publicado (Deploy):
-https://stevebr10.github.io/RoadMap/
+https://github.com/Stevebr10/RoadMap
 
 ---
 
