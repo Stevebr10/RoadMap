@@ -1,13 +1,14 @@
-# Mi RoadMap de Aprendizaje Front-End
+# Solución Challenge Frontend - CV
 
-Bienvenido a mi repositorio de ejercicios y prácticas. Aquí iré subiendo mis retos.
-
-## Lista de Proyectos Completados
-
-| Proyecto | Descripción | Demo en Vivo (Deploy) |
-| :--- | :--- | :--- |
-| **01. CV Personal** | Reto de creación de CV con HTML/CSS | https://stevebr10.github.io/RoadMap/Front/CV/ |
-| **02. Próximo Reto** | (Próximamente...) | ... |
+Aquí está la URL de mi proyecto publicado (Deploy):
+https://stevebr10.github.io/RoadMap/Front/CV/
 
 ---
-Desarrollado por Carlos Soto.
+
+## Mi RoadMap de Aprendizaje
+
+Bienvenido a mi repositorio de ejercicios.
+
+| Proyecto | Estado |
+| :--- | :--- |
+| **01. CV Personal** | Completado |
