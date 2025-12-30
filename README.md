@@ -10,4 +10,3 @@ Bienvenido a mi repositorio de ejercicios y prácticas. Aquí iré subiendo mis 
 | **02. Próximo Reto** | (Próximamente...) | ... |
 
 ---
-Desarrollado por Carlos Soto.
